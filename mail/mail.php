@@ -21,6 +21,8 @@ $email_from_name = $_ENV['EMAIL_FROM_NAME'];
 
 // Destinatários
 $destinatarios = array(
+    'viniciuss@alfamaweb.com.br',
+    'marcelw@alfamaweb.com.br',
     'gucorreia2901@gmail.com'
 );
 
